@@ -1,0 +1,13 @@
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #3B82F6; /* Vibrant blue */
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.5px;
+  transition: color 0.2s ease;
+}
+
+
